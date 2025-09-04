@@ -15,7 +15,7 @@ early detection and support.
 -   **File used**: `Student Depression Dataset.csv`\
 -   Contains information about students' **profession, academic
     performance, and depression status**.\
--   Target variable: **`Depression`** (Yes/No).
+-   Target variable: **`Depression`** .
 
 ## ⚙️ Requirements
 
