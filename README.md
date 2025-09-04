@@ -33,10 +33,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 -   **Exploratory Data Analysis (EDA)**: Countplots, correlations, and
     visualizations.\
 -   **Machine Learning Models**: Various classifiers (e.g., Logistic
-    Regression, Decision Trees, Random Forest, etc. --- depending on the
-    notebook).
-
-## 📈 Results
+    Regression, Decision Trees, Random Forest, Adaboost,LIME,SHAP
+    ## 📈 Results
 
 -   Shows **class distribution** of depression.\
 -   Model evaluation with **accuracy and performance metrics**.\
