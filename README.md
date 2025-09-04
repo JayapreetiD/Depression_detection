@@ -12,9 +12,9 @@ early detection and support.
 
 ## 📊 Dataset
 
--   **File used**: `Student Depression Dataset.csv`\
+-   **File used**: `Student Depression Dataset.csv`
 -   Contains information about students' **profession, academic
-    performance, and depression status**.\
+    performance, and depression status**.
 -   Target variable: **`Depression`** .
 
 ## ⚙️ Requirements
@@ -29,19 +29,19 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## 🔑 Methods Used
 
 -   **Data Preprocessing**: Handling null values, converting categorical
-    data with One-Hot Encoding.\
+    data with One-Hot Encoding.
 -   **Exploratory Data Analysis (EDA)**: Countplots, correlations, and
-    visualizations.\
+    visualizations.
 -   **Machine Learning Models**: Various classifiers (e.g., Logistic
     Regression, Decision Trees, Random Forest, Adaboost,LIME,SHAP
     ## 📈 Results
 
--   Shows **class distribution** of depression.\
--   Model evaluation with **accuracy and performance metrics**.\
+-   Shows **class distribution** of depression.
+-   Model evaluation with **accuracy and performance metrics**.
 -   Helps understand which features affect student depression the most.
 
 ## 📌 Future Improvements
 
--   Use **larger and more diverse datasets**.\
--   Apply **deep learning models** for better accuracy.\
+-   Use **larger and more diverse datasets**.
+-   Apply **deep learning models** for better accuracy.
 -   Build a **web app or dashboard** for real-time prediction.
